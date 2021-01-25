@@ -1,0 +1,17 @@
+C:\Users\ra1857025\source\repos\Parquimetro\Parquimetro\bin\Debug\Parquimetro.exe.config
+C:\Users\ra1857025\source\repos\Parquimetro\Parquimetro\bin\Debug\Parquimetro.exe
+C:\Users\ra1857025\source\repos\Parquimetro\Parquimetro\bin\Debug\Parquimetro.pdb
+C:\Users\ra1857025\source\repos\Parquimetro\Parquimetro\obj\Debug\Parquimetro.csprojAssemblyReference.cache
+C:\Users\ra1857025\source\repos\Parquimetro\Parquimetro\obj\Debug\Parquimetro.frmParquimetro.resources
+C:\Users\ra1857025\source\repos\Parquimetro\Parquimetro\obj\Debug\Parquimetro.Properties.Resources.resources
+C:\Users\ra1857025\source\repos\Parquimetro\Parquimetro\obj\Debug\Parquimetro.csproj.GenerateResource.cache
+C:\Users\ra1857025\source\repos\Parquimetro\Parquimetro\obj\Debug\Parquimetro.csproj.CoreCompileInputs.cache
+C:\Users\ra1857025\source\repos\Parquimetro\Parquimetro\obj\Debug\Parquimetro.exe
+C:\Users\ra1857025\source\repos\Parquimetro\Parquimetro\obj\Debug\Parquimetro.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Parquimetro\Parquimetro\obj\Debug\Parquimetro.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Parquimetro\Parquimetro\obj\Debug\Parquimetro.frmParquimetro.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Parquimetro\Parquimetro\obj\Debug\Parquimetro.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Parquimetro\Parquimetro\obj\Debug\Parquimetro.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Parquimetro\Parquimetro\obj\Debug\Parquimetro.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Parquimetro\Parquimetro\obj\Debug\Parquimetro.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Parquimetro\Parquimetro\obj\Debug\Parquimetro.pdb
